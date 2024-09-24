@@ -72,3 +72,8 @@ div {
   font-weight: bold;
   font-size: 1.2em; 
 }
+
+.description {
+  font-size: 0.8em;
+  font-style: italic;
+}
